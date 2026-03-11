@@ -17,3 +17,11 @@ Thumbs.db
 # Virtual environments
 venv/
 .venv/
+
+# Old versions
+app.py
+econ.py
+
+# Original notebook (contains API key)
+FRED_API_FINAL.ipynb
+Full_Final_Econ_Dataset.csv
