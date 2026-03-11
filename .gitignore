@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Data build script (contains API key)
+build_econ_dataset.py
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
